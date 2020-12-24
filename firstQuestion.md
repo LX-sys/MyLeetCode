@@ -18,7 +18,7 @@ LeetCode Result
 个人解答(python3)
 
 # Definition for singly-linked list.
-```
+```python
 
 class ListNode:
     def __init__(self, val=0, next=None):
